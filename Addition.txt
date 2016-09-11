@@ -1,0 +1,6 @@
+        INP
+        STA 90
+        INP
+        ADD 90
+        OUT
+        HLT
