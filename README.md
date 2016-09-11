@@ -2,4 +2,4 @@
 
 <br>
 
-Nothing interesting here, just small LMC projects for my own educational meandering. 
+Nothing interesting here, just little LMC projects for my own educational meandering. 
