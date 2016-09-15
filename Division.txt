@@ -1,8 +1,11 @@
+// 90 = x, 91 = y, 92 = result, 93 = constant 1
+// first input is x, second y, output is result
+
 901
 390
 901
 391
-592 // constant 1
+592
 193
 392
 590
